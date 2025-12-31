@@ -17,7 +17,7 @@ const IMAGES = {
   menu3: "/images/塩らーめん.jpeg",
   menu4: "/images/醤油らーめん.jpg",
   menu5: "/images/白湯らーめん.jpeg",
-  menu6: "/images/特製塩らーめん_copy.jpeg",
+  menu6: "/images/toku-sio.jpeg",
   noodle: "/images/麺.jpeg",
   soup: "/images/汁.jpeg",
   meat: "/images/肉.jpeg",
